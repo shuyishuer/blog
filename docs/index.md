@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "变态小刘鸭😶‍🌫️"
+  name: "变态小刘鸭"
   #text: "吃我一拳"
   tagline: My great project tagline
   image:
